@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Hitesh
+   last: Ochani
+email: hko219@nyu.edu
+leaderboard: Hitesh
