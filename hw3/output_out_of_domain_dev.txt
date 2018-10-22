@@ -176,7 +176,7 @@ II	NNP
 SCALIA	NNP
 filed	VBD
 a	DT
-dissenting	VBG
+dissenting	NN
 opinion	NN
 ,	,
 in	IN
@@ -190,7 +190,7 @@ joined	VBD
 THOMAS	NNP
 filed	VBD
 a	DT
-dissenting	VBG
+dissenting	NN
 opinion	NN
 ,	,
 in	IN
@@ -227,7 +227,7 @@ B	NN
 ALITO	NNP
 filed	VBD
 a	DT
-dissenting	VBG
+dissenting	NN
 opinion	NN
 ,	,
 in	IN
@@ -892,7 +892,7 @@ tables	NNS
 and	CC
 is	VBZ
 inviting	VBG
-cartoonists	NNP
+cartoonists	NNS
 to	TO
 do	VB
 their	PRP$
@@ -2868,7 +2868,7 @@ Rumsfeld	NNP
 charging	VBG
 that	IN
 they	PRP
-mismanaged	VBN
+mismanaged	VBD
 the	DT
 evacuation	NN
 efforts	NNS
@@ -5221,7 +5221,7 @@ eliminate	VB
 organized	VBN
 crime	NN
 by	IN
-arresting	JJ
+arresting	VBG
 the	DT
 little	JJ
 drug	NN
@@ -8655,7 +8655,7 @@ France	NNP
 who	WP
 is	VBZ
 now	RB
-expelling	JJ
+expelling	VBG
 inciting	VBG
 preachers	NNS
 and	CC
@@ -9109,7 +9109,7 @@ the	DT
 past	JJ
 25	CD
 years	NNS
-landlocked	VBN
+landlocked	VBD
 Afghanistan	NNP
 has	VBZ
 suffered	VBN
@@ -9414,7 +9414,7 @@ to	TO
 have	VB
 asked	VBN
 a	DT
-flustered	VBN
+flustered	JJ
 Musharraf	NNP
 .	.
 
@@ -11826,7 +11826,7 @@ Vienna	NNP
 
 Despite	IN
 many	JJ
-wrinkles	VBZ
+wrinkles	NNS
 ,	,
 India	NNP
 remains	VBZ
@@ -13981,7 +13981,7 @@ but	CC
 a	DT
 multitude	NN
 of	IN
-secessionist	JJ
+secessionist	NN
 ,	,
 terrorist	JJ
 and	CC
@@ -14175,7 +14175,7 @@ Indonesia	NNP
 and	CC
 Malaysia	NNP
 have	VBP
-migrated	VBD
+migrated	VBN
 temporarily	RB
 to	TO
 plunder	VB
@@ -18005,7 +18005,7 @@ who	WP
 object	VBP
 to	IN
 US	NNP
-biodefense	JJ
+biodefense	NNP
 research	NN
 because	IN
 they	PRP
@@ -20625,7 +20625,7 @@ theater	NN
 
 A	DT
 sender	NN
-purporting	NN
+purporting	VBG
 to	TO
 be	VB
 islamist	NN
@@ -21589,7 +21589,7 @@ last	JJ
 gasp	VB
 of	IN
 a	DT
-biodefense	JJ
+biodefense	NN
 insider	NN
 theory	NN
 .	.
@@ -22541,7 +22541,7 @@ now	RB
 helicopters	NNS
 have	VBP
 been	VBN
-circling	VBG
+circling	NN
 over	IN
 our	PRP$
 heads	NNS
@@ -22731,7 +22731,7 @@ Fedayeen	NNP
 
 Everyone	NN
 is	VBZ
-apprehensive	NNP
+apprehensive	JJ
 ,	,
 there	EX
 is	VBZ
@@ -24563,7 +24563,7 @@ and	CC
 reconciliation	NN
 to	IN
 the	DT
-dissenting	VBG
+dissenting	NN
 parties	NNS
 .	.
 

@@ -7,7 +7,7 @@ attracted	VBD
 by	IN
 a	DT
 simple	JJ
-interface	NNP
+interface	NN
 are	VBP
 among	IN
 the	DT
@@ -1750,7 +1750,7 @@ discrediting	NN
 by	IN
 the	DT
 TWIG	NNP
-counterintelligence	NNP
+counterintelligence	NN
 group	NN
 that	IN
 ran	NN
@@ -4031,9 +4031,9 @@ the	DT
 sect	NN
 ;	:
 when	WRB
-ex-members	VBZ
+ex-members	NNS
 increasingly	RB
-reported	VBN
+reported	VBD
 child	NN
 and	CC
 sexual	JJ
@@ -4058,7 +4058,7 @@ sect	NN
 began	VBD
 to	TO
 use	VB
-secluded	JJ
+secluded	VBN
 compounds	NNS
 ,	,
 state	NN
@@ -4645,7 +4645,7 @@ begs	VBZ
 them	PRP
 to	TO
 stop	VB
-intermarrying	NN
+intermarrying	VBG
 but	CC
 they	PRP
 say	VBP
@@ -4874,7 +4874,7 @@ say	VBP
 The	DT
 Pentagon	NNP
 is	VBZ
-bypassing	NN
+bypassing	VBG
 official	NN
 US	NNP
 intelligence	NN
@@ -5996,7 +5996,7 @@ new	JJ
 ,	,
 marvelous	JJ
 ,	,
-intoxicating	VBG
+intoxicating	NN
 .	.
 
 -	:
@@ -6065,7 +6065,7 @@ take	VB
 actions	NNS
 that	WDT
 seem	VBP
-senseless	JJ
+senseless	RB
 and	CC
 incompetent	JJ
 ,	,
@@ -6906,7 +6906,7 @@ take	VB
 actions	NNS
 that	WDT
 seem	VBP
-senseless	JJ
+senseless	RB
 and	CC
 incompetent	JJ
 ,	,
@@ -9984,7 +9984,7 @@ seats	NNS
 went	VBD
 to	IN
 the	DT
-fundamentalist	NN
+fundamentalist	JJ
 religious	JJ
 party	NN
 coalition	NN
@@ -10725,7 +10725,7 @@ than	IN
 al	NNP
 -	HYPH
 Qaeda	NNP
-infiltrators	NNP
+infiltrators	NNS
 ,	,
 and	CC
 it	PRP
@@ -13084,7 +13084,7 @@ which	WDT
 armed	JJ
 fundamentalist	NN
 and	CC
-nationalist	JJ
+nationalist	NN
 militias	NNS
 proliferate	VBP
 is	VBZ
@@ -13924,7 +13924,7 @@ I	PRP
 still	RB
 remember	VB
 him	PRP
-stuttering	JJ
+stuttering	NN
 about	IN
 "	NNP
 the	DT
@@ -14444,7 +14444,7 @@ Iraq	NNP
 oil	NN
 fields	NNS
 and	CC
-muttering	JJ
+muttering	NN
 about	IN
 opportunities	NNS
 for	IN
@@ -14573,7 +14573,7 @@ September	NNP
 ,	,
 Bush	NNP
 was	VBD
-obsessing	VBG
+obsessing	NN
 about	IN
 Iraq	NNP
 .	.
@@ -17420,8 +17420,8 @@ Wahhabi	NNP
 school	NN
 of	IN
 Islam	NNP
-that	WDT
-predominates	VBZ
+that	IN
+predominates	NNS
 among	IN
 Saudia	NNP
 's	POS
@@ -19784,7 +19784,7 @@ fault	NN
 -	HYPH
 finding	NN
 or	CC
-assigning	VBG
+assigning	NN
 blame	NN
 .	.
 
@@ -20544,7 +20544,7 @@ spent	VBD
 receiving	VBG
 wholesome	JJ
 ,	,
-uncontaminated	VBN
+uncontaminated	JJ
 food	NN
 ,	,
 good	JJ

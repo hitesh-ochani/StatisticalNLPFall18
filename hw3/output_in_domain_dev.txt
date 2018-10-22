@@ -451,7 +451,7 @@ other	JJ
 debt	NN
 ,	,
 and	CC
-subtracting	NN
+subtracting	VBG
 from	IN
 it	PRP
 the	DT
@@ -1350,14 +1350,14 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	NNP
+revisited	VBD
 .	.
 ''	''
 
 With	IN
 the	DT
 market	NN
-fluctuating	VBG
+fluctuating	NN
 and	CC
 then	RB
 closing	NN
@@ -1518,7 +1518,7 @@ market	NN
 seems	VBZ
 to	TO
 be	VB
-straightening	JJ
+straightening	NN
 out	NN
 ;	:
 we	PRP
@@ -9043,7 +9043,7 @@ a	DT
 manner	NN
 as	IN
 is	VBZ
-warranted	JJ
+warranted	VBN
 .	.
 ''	''
 
@@ -11242,7 +11242,7 @@ prices	NNS
 .	.
 
 No	DT
-fiddling	JJ
+fiddling	NN
 with	IN
 systems	NNS
 and	CC
@@ -13006,8 +13006,8 @@ many	JJ
 real	JJ
 -	HYPH
 estate	NN
-values	NNS
-depreciated	VBD
+values	VBZ
+depreciated	VBN
 ,	,
 the	DT
 council	NN
@@ -13156,7 +13156,7 @@ Now	RB
 ,	,
 that	WDT
 's	VBZ
-reactionary	NNP
+reactionary	NN
 :	:
 Letter	NNP
 Carriers	NNPS
@@ -16311,7 +16311,7 @@ deal	NN
 ''	''
 stocks	NNS
 are	VBP
-jeopardized	JJ
+jeopardized	VBN
 by	IN
 the	DT
 unexpected	JJ
@@ -22243,7 +22243,7 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	JJ
+anti-defense	NNP
 Greens	NNP
 wanted	VBD
 a	DT
@@ -33212,11 +33212,11 @@ businesses	NNS
 such	JJ
 as	IN
 McVities	NNP
-biscuits	NNPS
+biscuits	NNS
 and	CC
 Terry	NNP
 's	POS
-confectionery	JJ
+confectionery	NN
 ,	,
 will	MD
 have	VB
@@ -34763,7 +34763,7 @@ problem	NN
 that	WDT
 had	VBD
 been	VBN
-underpinning	JJ
+underpinning	NN
 prices	NNS
 appeared	VBD
 to	TO
@@ -40779,7 +40779,7 @@ a	DT
 three	CD
 -	HYPH
 party	NN
-non-Socialist	JJ
+non-Socialist	NN
 government	NN
 as	IN
 Gro	NNPS
@@ -41718,7 +41718,7 @@ Manpower	NNP
 
 Mr.	NNP
 Fromstein	NNP
-solidified	VBN
+solidified	VBD
 his	PRP$
 control	NN
 in	IN
@@ -42581,7 +42581,7 @@ held	VBN
 company	NN
 ,	,
 was	VBD
-stagnating	VBG
+stagnating	NN
 under	IN
 the	DT
 management	NN
