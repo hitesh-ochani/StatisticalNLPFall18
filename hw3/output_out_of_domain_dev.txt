@@ -2043,9 +2043,9 @@ jobs	NNS
 .	.
 
 In	IN
-'72	NNP
+'72	CD
 or	CC
-'73	NNP
+'73	CD
 ,	,
 if	IN
 you	PRP
@@ -3578,7 +3578,7 @@ against	IN
 Yemen	NNP
 in	IN
 the	DT
-60's	NN
+60's	NNP
 because	IN
 of	IN
 Israel	NNP
@@ -5851,7 +5851,7 @@ of	IN
 so	RB
 -	HYPH
 called	VBN
-martyrs	NN
+martyrs	NNS
 ,	,
 and	CC
 the	DT
@@ -15825,7 +15825,7 @@ June	NNP
 2004	CD
 ,	,
 the	DT
-9/11	NNP
+9/11	CD
 Commission	NNP
 Staff	NNP
 concluded	VBD
@@ -16371,7 +16371,7 @@ final	JJ
 stages	NNS
 of	IN
 the	DT
-9/11	JJ
+9/11	CD
 plot	NN
 ,	,
 Zacarias	NNP
@@ -16464,7 +16464,7 @@ to	TO
 be	VB
 part	NN
 of	IN
-9/11	NN
+9/11	CD
 but	CC
 was	VBD
 to	TO
@@ -17145,7 +17145,7 @@ US	NNP
 should	MD
 expect	VB
 another	DT
-9/11	NN
+9/11	CD
 on	IN
 US	NNP
 soil	NN
@@ -17323,7 +17323,7 @@ Department	NNP
 testified	VBD
 before	IN
 the	DT
-9/11	NNP
+9/11	CD
 Commission	NNP
 .	.
 
@@ -18125,7 +18125,7 @@ Yazid	NNP
 Sufaat	NNP
 met	VBD
 with	IN
-9/11	NN
+9/11	CD
 plotters	NNS
 and	CC
 two	CD
@@ -18271,7 +18271,7 @@ wave	NN
 "	VBN
 
 After	IN
-9/11	NNP
+9/11	CD
 ,	,
 Yazid	NNP
 Sufaat	NNP
@@ -20177,7 +20177,7 @@ imprisonment	NN
 of	IN
 the	DT
 blind	JJ
-sheik	NN
+sheik	NNP
 ,	,
 Sheik	NNP
 Abdel	NNP
@@ -20462,7 +20462,7 @@ by	IN
 challenging	VBG
 the	DT
 blind	JJ
-sheik	NN
+sheik	NNP
 's	POS
 ability	NN
 to	TO
@@ -20696,9 +20696,9 @@ the	DT
 militant	JJ
 islamists	NNS
 that	IN
-martyrs	JJ
-go	NN
-to	IN
+martyrs	NNS
+go	VBP
+to	TO
 paradise	NN
 "	NN
 in	IN
@@ -20718,7 +20718,7 @@ in	IN
 which	WDT
 they	PRP
 admitted	VBD
-9/11	NN
+9/11	CD
 ,	,
 and	CC
 described	VBD
@@ -20747,7 +20747,7 @@ for	IN
 representing	VBG
 the	DT
 date	NN
-9/11	NN
+9/11	CD
 ,	,
 and	CC
 used	VBD
@@ -21690,7 +21690,7 @@ a	DT
 few	JJ
 of	IN
 the	DT
-pic's	NN
+pic's	NNP
 .	.
 
 One	CD
@@ -21718,7 +21718,7 @@ screenshots	NNS
 of	IN
 two	CD
 beheading	NN
-video's	NN
+video's	NNP
 .	.
 
 Compare	VB
@@ -21736,7 +21736,7 @@ to	TO
 see	VB
 these	DT
 slides	NNS
-....	NN
+....	:
 they	PRP
 are	VBP
 amazing	JJ
@@ -21876,7 +21876,7 @@ forth	RB
 in	IN
 UNSC	NNP
 Resolution	NNP
-1559	NNP
+1559	CD
 ,	,
 which	WDT
 has	VBZ
@@ -21944,7 +21944,7 @@ Over	IN
 three	CD
 years	NNS
 after	IN
-9-11	NNP
+9-11	CD
 ,	,
 the	DT
 United	NNP
@@ -22127,7 +22127,7 @@ Americans	NNPS
 hostage	NN
 throughout	IN
 the	DT
-80's	NN
+80's	NNP
 and	CC
 now	RB
 they	PRP
@@ -22158,7 +22158,7 @@ Europeans	NNPS
 .	.
 
 The	DT
-sheikh	NN
+sheikh	NNP
 in	IN
 wheel	NN
 -	HYPH
@@ -23755,9 +23755,9 @@ thief	NN
 "	NN
 and	CC
 an	DT
-"	NNP
-Iranian	NNP
-stooge	VBZ
+"	JJ
+Iranian	JJ
+stooge	NN
 who	WP
 longs	NNS
 for	IN

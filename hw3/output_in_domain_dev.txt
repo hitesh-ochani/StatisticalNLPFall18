@@ -1915,7 +1915,7 @@ before	IN
 pianos	NNS
 would	MD
 produce	VB
-1,118	JJ
+1,118	CD
 publishable	JJ
 rock	NN
 'n'	CC
@@ -2253,7 +2253,7 @@ Nos.	NNP
 through	IN
 9	CD
 ,	,
-a.k.a.	VBG
+a.k.a.	NNP
 the	DT
 ``	``
 bottom	NN
@@ -4524,7 +4524,7 @@ the	DT
 best	JJS
 price	NN
 at	IN
-845	NN
+845	CD
 pence	NN
 ,	,
 (	(
@@ -4784,7 +4784,7 @@ television	NN
 .	.
 
 At	IN
-12:49	NN
+12:49	CD
 p.m.	NN
 ,	,
 the	DT
@@ -7378,7 +7378,7 @@ plunged	VBD
 204.2	CD
 points	NNS
 at	IN
-12:49	NN
+12:49	CD
 p.m	NN
 .	.
 
@@ -12597,7 +12597,7 @@ Over	IN
 a	DT
 third	NN
 of	IN
-618	JJ
+618	CD
 hospitals	NNS
 surveyed	VBN
 by	IN
@@ -12884,7 +12884,7 @@ says	VBZ
 its	PRP$
 survey	NN
 of	IN
-2,508	JJ
+2,508	CD
 such	JJ
 employees	NNS
 shows	VBZ
@@ -12960,7 +12960,7 @@ damage	NN
 A	DT
 third	NN
 of	IN
-439	JJ
+439	CD
 companies	NNS
 surveyed	VBN
 by	IN
@@ -17588,7 +17588,7 @@ issues	NNS
 swamped	VBD
 advancers	NNS
 ,	,
-941	NNP
+941	CD
 -	HYPH
 105	CD
 .	.
@@ -23522,8 +23522,8 @@ group	NN
 said	VBD
 it	PRP
 controls	VBZ
-2,720,675	NNP
-Aristech	NNP
+2,720,675	CD
+Aristech	IN
 common	JJ
 shares	NNS
 ,	,
@@ -23666,7 +23666,7 @@ legislative	JJ
 atrocities	NNS
 as	IN
 the	DT
-1,376	JJ
+1,376	CD
 page	NN
 ,	,
 13	CD
@@ -32410,7 +32410,7 @@ traditional	JJ
 microprocessors	NNS
 with	IN
 its	PRP$
-8086	JJ
+8086	CD
 family	NN
 that	IN
 forms	NNS
@@ -34953,7 +34953,7 @@ warehouses	NNS
 rose	VBD
 yesterday	NN
 by	IN
-516	NN
+516	CD
 tons	NNS
 ,	,
 to	IN
@@ -38507,7 +38507,7 @@ lower	JJR
 ,	,
 closing	NN
 down	IN
-647	NNP
+647	CD
 .	.
 
 Unlike	IN
